@@ -26,8 +26,8 @@ Welcome to my **Horror-Themed Developer Portfolio**, where curiosity opens creep
 - 🧠 Calm under pressure like a vampire in sunlight 🧛 — that’s my debugging style
 - 🛠️ Tech Stack: **React**, **Express**, **Node**, **MongoDB**, **MySQL**
 - 🎮 Projects:
-  - [🛒 Farmer Marketplace (MERN)](https://github.com/Shivakantmarya/farmer-marketplace-mern-project)
-  - [📓 Notes App](https://github.com/Shivakantmarya/NotesApp)
+  - [🛒 FullStack Farmer Marketplace (MERN)](https://github.com/Shivakantmarya/farmer-marketplace-mern-project)
+  - [📓 FullStack Notes App](https://github.com/Shivakantmarya/NotesApp)
   - [📝 FullStack Todos](https://github.com/Shivakantmarya/FullStack-Todos)
 
 ---

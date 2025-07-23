@@ -1,57 +1,66 @@
-# 🏚️ Horror House Portfolio – Shiva Marya
+# 🧛‍♂️ Horror-Themed Developer Portfolio
 
-Welcome to my **Horror-Themed Developer Portfolio**, where curiosity opens creepy doors... and every room reveals a new skill, story, or project. This isn’t just a portfolio — it’s an *interactive haunted house experience*. Enter if you dare! ☠️
+Welcome to my interactive haunted portfolio – where code meets the crypt. This isn't just a developer portfolio... it's an eerie journey through my skills, projects, and achievements, wrapped in fog, flickers, and ghostly transitions.
 
-![cover](./public/closed-door.png)
+🔗 [Live Demo]((https://horror-portfolio.onrender.com))
 
 ---
 
-## 🧟 What’s Inside
+## 💀 Tech Stack
 
-| Room             | Content                                    |
-|------------------|---------------------------------------------|
-| 🔥 Entry Gate     | Creepy quote, eerie ambient music           |
-| 🪞 Mirror Room    | **About Me** – Reflective & eerie bio       |
-| 🕸 Whispering Walls | **Skills** – C++ / MERN / MongoDB / DSA     |
-| 🗝 Secret Passage | **Projects** – Live demos & haunted folders |
-| 🕯 Library        | **Achievements** – GFG rank, internships     |
-| 👁 Attic          | **Coding Profiles** – GFG, LeetCode         |
-| 📞 Ouija Table    | **Contact Form** – Message through spirits  |
+- **React + Vite** for lightning-fast performance
+- **Framer Motion** for smooth, haunted transitions
+- **Howler.js** for ambient horror sound effects
+- **Pure CSS & Google Fonts** for blood-dripping visuals and cursed animations
+
+---
+
+## 👻 What’s Inside?
+
+| Room Name       | Haunting Contents                                   |
+|-----------------|------------------------------------------------------|
+| ☠️ Haunted Gate  | Enter through a creaky gate with ambient fog        |
+| 🩸 Intro          | Name reveal and resume download                    |
+| 🪞 Mirror Room    | Spooky About Me with creepy hover text             |
+| 🧠 Whispering Walls | Tech stack with glowing skill list                |
+| 🗝 Secret Passage | Projects that echo with eerie elegance             |
+| 📜 Library        | Achievements & letters that never fade             |
+| ⚔️ Battle Ground  | Competitive profiles (GFG 500+, Leetcode 200+)     |
+| ☎️ Spirit Link    | Ouija-style contact form with ghostly glow         |
+
+---
+
+## 🧾 Projects Showcased
+
+- 🌾 **Farmer Marketplace** – FullStack eCommerce MERN App  
+- 📝 **Notes App** – FullStack Notes Manager with login  
+- ✅ **Todo App** – FullStack Auth-enabled productivity app
+
+Each project is animated with unique transitions, flickers, and blood drips.
 
 ---
 
 ## 🧠 Highlights
 
-- ⚙️ 500+ DSA problems on **GeeksforGeeks**, 200+ on **LeetCode**
-- 🧠 Calm under pressure like a vampire in sunlight 🧛 — that’s my debugging style
-- 🛠️ Tech Stack: **React**, **Express**, **Node**, **MongoDB**, **MySQL**
-- 🎮 Projects:
-  - [🛒 FullStack Farmer Marketplace (MERN)](https://github.com/Shivakantmarya/farmer-marketplace-mern-project)
-  - [📓 FullStack Notes App](https://github.com/Shivakantmarya/NotesApp)
-  - [📝 FullStack Todos](https://github.com/Shivakantmarya/FullStack-Todos)
+- 🧮 500+ DSA problems on GeeksforGeeks  
+- 💻 200+ LeetCode problems  
+- 🧛 Calm under pressure like a vampire in sunlight
 
 ---
 
-## 🧰 Built With
+## 🧬 Future Enhancements
 
-- **React + Vite** – blazing fast frontend
-- **Framer Motion** – spooky room transitions
-- **Howler.js** – ambient horror music
-- **CSS / Creepster / Butcherman fonts** – blood-dripping style
-- **Custom cursor** – glowing flashlight effect
-
----
-
-## 🧾 Resume
-
-🎓 [Download Shiva Kant Marya Resume](./public/Shiva_Marya_Resume.pdf)
+- 🎥 Replace fog PNG with ambient looping video
+- 👁 Interactive ghost NPCs that follow cursor
+- 💬 Firebase/EmailJS contact form backend
+- 🔮 Add hidden Easter egg jump scares (👀)
 
 ---
 
-## 🕸 How to Run Locally
+## 📦 Setup Instructions
 
 ```bash
-git clone https://github.com/Shivakantmarya/horror-portfolio.git
-cd horror-portfolio
+git clone https://github.com/Shivakantmarya/Horror-Portfolio.git
+cd Horror-Portfolio
 npm install
 npm run dev
